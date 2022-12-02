@@ -18,15 +18,6 @@
 * Public API for weather
 * Google Map API 
 
-## 📸 ScreenShots:
-
-## 🤓 Developers:-
- * [Ashok KC](https://pages.github.com/akc3416). 
- * [Sameer Gurung](https://pages.github.com/lenleo). 
- * [Sagar KC](https://pages.github.com/sagar3416). 
- * [Sharda Chhetri](https://pages.github.com/sharda3416). 
- 
- 
  
  ## Completed Task
  * Splash Screen 
