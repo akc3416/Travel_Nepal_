@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174292480284",
+    "project_id": "travel-nepal-677b1",
+    "storage_bucket": "travel-nepal-677b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174292480284:android:54e48a60af4474598dcad9",
+        "android_client_info": {
+          "package_name": "com.nepal.travel_nepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174292480284-7u2oncuv0f7rer33ku5ofg86ocmhpq1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqxCf6M4kLo5AM3SGzKaNqtfnBUxnEQHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174292480284-7u2oncuv0f7rer33ku5ofg86ocmhpq1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
