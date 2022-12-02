@@ -1,0 +1,265 @@
+[
+    [
+      {
+        "sn": 1,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Good",
+        "contact": 9814789587
+      },
+      {
+        "sn": 2,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Good",
+        "contact": 9848672698
+      },
+      {
+        "sn": 3,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Good",
+        "contact": 9865785458
+      },
+      {
+        "sn": 4,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Better",
+        "contact": 9875646645
+      },
+      {
+        "sn": 5,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Better",
+        "contact": 9855546526
+      },
+      {
+        "sn": 6,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Better",
+        "contact": 9802465898
+      },
+      {
+        "sn": 7,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Best",
+        "contact": 9817548687
+      },
+      {
+        "sn": 8,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Best",
+        "contact": 9825786542
+      },
+      {
+        "sn": 9,
+        "two_four": 2,
+        "c_b_ca_bu": "c",
+        "lotno": ".",
+        "mileage": "..",
+        "condition": "Best",
+        "contact": 9867854958
+      },
+      {
+        "sn": 10,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 50,
+        "mileage": 42,
+        "condition": "Best",
+        "contact": 9867985235
+      },
+      {
+        "sn": 11,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 42,
+        "mileage": 38,
+        "condition": "Better",
+        "contact": 9814785659
+      },
+      {
+        "sn": 12,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 47,
+        "mileage": 40,
+        "condition": "Better",
+        "contact": 9825786981
+      },
+      {
+        "sn": 13,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 65,
+        "mileage": 45,
+        "condition": "Best",
+        "contact": 9802587954
+      },
+      {
+        "sn": 14,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 20,
+        "mileage": 29,
+        "condition": "Good",
+        "contact": 9867257897
+      },
+      {
+        "sn": 15,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 35,
+        "mileage": 30,
+        "condition": "Good",
+        "contact": 9802415681
+      },
+      {
+        "sn": 16,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 42,
+        "mileage": 35,
+        "condition": "Better",
+        "contact": 9801478956
+      },
+      {
+        "sn": 17,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 37,
+        "mileage": 32,
+        "condition": "Good",
+        "contact": 9815457895
+      },
+      {
+        "sn": 18,
+        "two_four": 2,
+        "c_b_ca_bu": "b",
+        "lotno": 62,
+        "mileage": 45,
+        "condition": "Best",
+        "contact": 9867245897
+      },
+      {
+        "sn": 19,
+        "two_four": 4,
+        "c_b_ca_bu": "ca",
+        "lotno": 22,
+        "mileage": 32,
+        "condition": "Best",
+        "contact": 9864178982
+      },
+      {
+        "sn": 20,
+        "two_four": 4,
+        "c_b_ca_bu": "ca",
+        "lotno": 24,
+        "mileage": 35,
+        "condition": "Best",
+        "contact": 9846587549
+      },
+      {
+        "sn": 21,
+        "two_four": 4,
+        "c_b_ca_bu": "ca",
+        "lotno": 18,
+        "mileage": 28,
+        "condition": "Better",
+        "contact": 9864748924
+      },
+      {
+        "sn": 22,
+        "two_four": 4,
+        "c_b_ca_bu": "ca",
+        "lotno": 16,
+        "mileage": 26,
+        "condition": "Better",
+        "contact": 9801547895
+      },
+      {
+        "sn": 22,
+        "two_four": 4,
+        "c_b_ca_bu": "ca",
+        "lotno": 13,
+        "mileage": 22,
+        "condition": "Better",
+        "contact": 9814756875
+      },
+      {
+        "sn": 23,
+        "two_four": 4,
+        "c_b_ca_bu": "ca",
+        "lotno": 15,
+        "mileage": 20,
+        "condition": "Good",
+        "contact": 9814568751
+      },
+      {
+        "sn": 24,
+        "two_four": 4,
+        "c_b_ca_bu": "ca",
+        "lotno": 12,
+        "mileage": 18,
+        "condition": "Good",
+        "contact": 9803368485
+      },
+      {
+        "sn": 25,
+        "two_four": 4,
+        "c_b_ca_bu": "ca",
+        "lotno": 17,
+        "mileage": 33,
+        "condition": "Best",
+        "contact": 9847165895
+      },
+      {
+        "sn": 26,
+        "two_four": 4,
+        "c_b_ca_bu": "bu",
+        "lotno": 13,
+        "mileage": 15,
+        "condition": "Good",
+        "contact": 9847259981
+      },
+      {
+        "sn": 27,
+        "two_four": 4,
+        "c_b_ca_bu": "bu",
+        "lotno": 12,
+        "mileage": 10,
+        "condition": "Good",
+        "contact": 9867365974
+      },
+      {
+        "sn": 28,
+        "two_four": 4,
+        "c_b_ca_bu": "bu",
+        "lotno": 15,
+        "mileage": 16,
+        "condition": "Good",
+        "contact": 9847598156
+      }
+    ]
+  ]
